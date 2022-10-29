@@ -1,0 +1,37 @@
+.btn.rounded-pill{
+    background-color: green;
+    color: white;
+}
+.Learn{
+    font-size: 48px;
+}
+.top-section{
+    background-color: #f0fff0;
+}
+.image{
+    height: 200px;
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 260px;
+}
+.learn-card{
+    background-color: #f0fff0;
+    width: 260px;
+    border-radius: 10px;
+}
+.learn-card:hover{
+    background-color: white;
+    box-shadow: 2px 4px gray;
+}
+.online{
+    border-radius: 10px;
+    width: 400px;
+}
